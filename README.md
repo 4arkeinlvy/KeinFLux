@@ -1,4 +1,4 @@
-# KeinFlux : ImagCaptioning 
+# KeinFlux : ImageCaptioning 
 
 > [!NOTE]
 >  
