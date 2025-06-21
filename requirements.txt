@@ -1,0 +1,16 @@
+# Core Deep Learning Libraries
+torch>=2.0.0            # PyTorch: For tensors, neural networks, etc.
+torchvision>=0.15.0     # torchvision: For datasets, transforms, and pre-trained models (like ResNet-152)
+
+# Data Handling and Processing
+Pillow>=9.0.0           # PIL (Pillow): For image loading and manipulation
+numpy>=1.23.0           # NumPy: For numerical operations, especially with array data
+pandas>=1.5.0           # Pandas: For data manipulation, especially if dealing with CSVs/dataframes
+
+
+# Utilities and Visualization
+tqdm>=4.65.0            # tqdm: For progress bars during training/processing
+matplotlib>=3.6.0       # Matplotlib: For plotting and visualization
+
+# Transformers Library (for BertTokenizer)
+transformers>=4.0.0     # Hugging Face Transformers: Contains BertTokenizer
